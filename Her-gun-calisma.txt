@@ -1,2 +1,3 @@
 birinci gün
-ilk yazı
+ilk yazı localde
+ikinci yazı github'ta
