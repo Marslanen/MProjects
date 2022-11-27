@@ -1,3 +1,4 @@
 birinci gün
 ilk yazı localde
 ikinci yazı github'ta
+üçüncü yazı github'ta
